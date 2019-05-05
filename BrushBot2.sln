@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.202
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrushBot2", "BrushBot2\BrushBot2.csproj", "{1C7D5DA5-E088-4C98-838E-1B0C937FCBE3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C7D5DA5-E088-4C98-838E-1B0C937FCBE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C7D5DA5-E088-4C98-838E-1B0C937FCBE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C7D5DA5-E088-4C98-838E-1B0C937FCBE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C7D5DA5-E088-4C98-838E-1B0C937FCBE3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {15DBDB00-6753-4995-81FC-DF12F7FEE13B}
+	EndGlobalSection
+EndGlobal
